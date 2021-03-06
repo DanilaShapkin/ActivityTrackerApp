@@ -1,0 +1,4 @@
+telegram:
+  api:
+    token: ${BOT_TOKEN}
+    username: ${BOT_USERNAME}
